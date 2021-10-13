@@ -1,3 +1,5 @@
+#Versión """Funcional""" de la aplicación
+
 from tkinter import *
 
 import tkinter

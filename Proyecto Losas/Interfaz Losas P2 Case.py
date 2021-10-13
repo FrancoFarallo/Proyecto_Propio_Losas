@@ -1,3 +1,5 @@
+#Versión de prueba para la creación de una función switcher
+
 from tkinter import *
 
 import tkinter

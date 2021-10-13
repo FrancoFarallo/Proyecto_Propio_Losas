@@ -1,3 +1,5 @@
+#Primeras pruebas y familiarización con la libreria tkinter
+
 from contextlib import contextmanager
 from tkinter import *
 import tkinter
